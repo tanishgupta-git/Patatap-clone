@@ -7,3 +7,14 @@ html,body{
 	margin:0;
 	height: 100%;
 }
+.message{
+	font-family: sans-serif;
+	position: absolute;
+	color:#666666;
+	background: white;
+	padding: 0.5rem 1.2rem;
+	border-radius: 8px;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
